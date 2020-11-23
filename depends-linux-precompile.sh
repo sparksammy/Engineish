@@ -1,0 +1,1 @@
+sudo apt install liblua5.1-0-dev g++ libglfw3-dev libglm-dev
